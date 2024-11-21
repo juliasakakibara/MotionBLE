@@ -6,8 +6,10 @@
 
 ## **Description**
 
-The [**MotionBLE iOS App**](https://github.com/juliasakakibara/MotionBLE_ArduinoSketch) allows scanning and connecting to Bluetooth Low Energy (BLE) devices that advertise specific services and characteristics. 
+The **MotionBLE iOS App** allows scanning and connecting to Bluetooth Low Energy (BLE) devices that advertise specific services and characteristics. 
 The app has two main screens:
+
+The corresponding Arduino sketch for this app can be found here: [MotionBLE Arduino Sketch Repository](https://github.com/juliasakakibara/MotionBLE_ArduinoSketch/tree/main)
 
 - **Scan:** Searches for and displays nearby BLE devices. Once a device is selected, a connection can be established.
 - **Connect:** Allows interaction with the characteristics of the connected BLE device:
@@ -38,8 +40,7 @@ This project is adapted from the original work by [Leonardo Cavagnis](https://gi
 2. Modified to work with an Arduino Nano RP2040 Connect powered by an external battery.
 3. Updated design to reflect the new project name: **MotionBLE**.
 
-The corresponding Arduino sketch for this app can be found here:  
-[MotionBLE Arduino Sketch Repository](https://github.com/yourusername/MotionBLE_ArduinoSketch)
+The corresponding Arduino sketch for this app can be found here: [MotionBLE Arduino Sketch Repository](https://github.com/juliasakakibara/MotionBLE_ArduinoSketch/tree/main)
 
 ---
 
@@ -63,14 +64,13 @@ This project was developed by:
 - [Leonardo Cavagnis](https://github.com/leonardocavagnis)
 - [Andrea Finollo](https://github.com/DrAma999)
 - Original repositories:
-  [Medium](https://leonardocavagnis.medium.com/from-arduino-programming-to-ios-app-development-8b5da1783e1e)
-  [iOSArduinoBLE iOS App](https://github.com/leonardocavagnis/iOSArduinoBLE_iOSApp)
+  [Medium](https://leonardocavagnis.medium.com/from-arduino-programming-to-ios-app-development-8b5da1783e1e) 
+  [iOSArduinoBLE iOS App](https://github.com/leonardocavagnis/iOSArduinoBLE_iOSApp) 
   [iOSArduinoBLE Arduino Sketch](https://github.com/leonardocavagnis/iOSArduinoBLE_ArduinoSketch)
 
 
 Adaptations made by:
-- **[Your Name]**
-
+- **Julia Sakakibara**
 ---
 
 ## **License**
