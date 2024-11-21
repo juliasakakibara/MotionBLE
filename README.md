@@ -6,8 +6,7 @@
 
 ## **Description**
 
-The **MotionBLE iOS App** allows scanning and connecting to Bluetooth Low Energy (BLE) devices that advertise specific services and characteristics. 
-[MotionBLE_iOS (https://github.com/juliasakakibara/MotionBLE_iOS)]
+The [**MotionBLE iOS App**](https://github.com/juliasakakibara/MotionBLE_ArduinoSketch) allows scanning and connecting to Bluetooth Low Energy (BLE) devices that advertise specific services and characteristics. 
 The app has two main screens:
 
 - **Scan:** Searches for and displays nearby BLE devices. Once a device is selected, a connection can be established.
